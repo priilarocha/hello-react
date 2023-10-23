@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/priilarocha/hello-react.git/static/css/main.7cbcf965.css",
-    "main.js": "/priilarocha/hello-react.git/static/js/main.bd11c6bf.js",
-    "static/media/corporate.jpg": "/priilarocha/hello-react.git/static/media/corporate.fa955fdff629baaffa73.jpg",
-    "index.html": "/priilarocha/hello-react.git/index.html",
-    "main.7cbcf965.css.map": "/priilarocha/hello-react.git/static/css/main.7cbcf965.css.map",
-    "main.bd11c6bf.js.map": "/priilarocha/hello-react.git/static/js/main.bd11c6bf.js.map"
+    "main.css": "/priilarocha/hello-react.git/hello-react/static/css/main.7cbcf965.css",
+    "main.js": "/priilarocha/hello-react.git/hello-react/static/js/main.10aae9c2.js",
+    "static/media/corporate.jpg": "/priilarocha/hello-react.git/hello-react/static/media/corporate.fa955fdff629baaffa73.jpg",
+    "index.html": "/priilarocha/hello-react.git/hello-react/index.html",
+    "main.7cbcf965.css.map": "/priilarocha/hello-react.git/hello-react/static/css/main.7cbcf965.css.map",
+    "main.10aae9c2.js.map": "/priilarocha/hello-react.git/hello-react/static/js/main.10aae9c2.js.map"
   },
   "entrypoints": [
     "static/css/main.7cbcf965.css",
-    "static/js/main.bd11c6bf.js"
+    "static/js/main.10aae9c2.js"
   ]
 }
